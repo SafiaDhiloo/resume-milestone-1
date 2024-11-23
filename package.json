@@ -1,0 +1,13 @@
+{
+  "name": "milestone-1-2",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "echo 'No start script defined. Open the index.html file in a browser.' ",
+    "build": "echo 'No build process required for plain HTML and CSS' "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
